@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dahye</h1>
 <h3 align="center">Looking for Software & Data engineer</h3>
 
-- 🌱 I’m currently learning **Data Engineering and Cloud Infra**
+- 🌱 I’m mainly work on **Data Engineering and Backend**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://www.notion.so/kangdaia/f853ebc801b543c989f43d2cef2ee096)
 
