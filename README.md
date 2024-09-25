@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://www.notion.so/kangdaia/f853ebc801b543c989f43d2cef2ee096)
 
-- 📝 I regularly write articles on [Study Blog](https://www.notion.so/kangdaia/Study-Blog-82387d1015aa4ac6888cf335cd96765b)
-
 - 📫 How to reach me **kangdiamond@gmail.com**
 
 ## 🌐 Socials:
